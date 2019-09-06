@@ -1,4 +1,5 @@
 export { default as ReText } from "./ReText";
+export * from "./Durations";
 export * from "./Math";
 export * from "./Colors";
 export * from "./AnimationRunners";
